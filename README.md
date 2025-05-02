@@ -43,7 +43,6 @@ properties:
 
 images : 
 
-![Screenshot 2025-05-02 093227](https://github.com/user-attachments/assets/a85f52f9-961d-42f4-9eda-a1cb69570021)
   ![Screenshot 2025-05-02 093100](https://github.com/user-attachments/assets/82193d09-7b82-4bfc-bf3a-bbab7edc519c)
 ![Screenshot 2025-05-02 093227](https://github.com/user-attachments/assets/388e7745-ed10-421c-bc2a-0fabf90032b7)
 ![Screenshot 2025-05-02 093248](https://github.com/user-attachments/assets/25079523-b8ae-41ce-a4e8-b62171d24cc4)
