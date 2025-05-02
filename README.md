@@ -1,4 +1,4 @@
-![Screenshot 2025-05-02 093227](https://github.com/user-attachments/assets/a85f52f9-961d-42f4-9eda-a1cb69570021)Phonebook CRUD Application (Servlet & JSP)
+Phonebook CRUD Application (Servlet & JSP)
 
 This project is a Phonebook Web Application built using Java Servlets, JSP, and MySQL. 
 It allows users to add, view, update, and delete contacts while ensuring secure data storage.
@@ -29,7 +29,7 @@ Installation & Setup:
 
   Clone the repository:
 
-  git clone https://github.com/yourusername/phonebook-crud-servlet-jsp.git
+  git clone 
   cd phone-book-app
   Configure the database in web.xml or application.properties:
 
@@ -42,6 +42,8 @@ properties:
   Build and deploy the project on a Tomcat server.
 
 images : 
+
+![Screenshot 2025-05-02 093227](https://github.com/user-attachments/assets/a85f52f9-961d-42f4-9eda-a1cb69570021)
   ![Screenshot 2025-05-02 093100](https://github.com/user-attachments/assets/82193d09-7b82-4bfc-bf3a-bbab7edc519c)
 ![Screenshot 2025-05-02 093227](https://github.com/user-attachments/assets/388e7745-ed10-421c-bc2a-0fabf90032b7)
 ![Screenshot 2025-05-02 093248](https://github.com/user-attachments/assets/25079523-b8ae-41ce-a4e8-b62171d24cc4)
